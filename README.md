@@ -6,7 +6,6 @@
 
 *Studying how intelligent systems learn, reason, and generalize — and building them from first principles.*
 
-[GitHub](https://github.com/Shashank731)
 
 </div>
 
