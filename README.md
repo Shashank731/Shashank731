@@ -1,1 +1,122 @@
-<div align="center">\n\n# Shashank Saraswat\n\n**Machine Learning · Deep Learning · LLM Systems**\n\n*Studying how intelligent systems learn, reason, and generalize — and building them from first principles.*\n\n[GitHub](https://github.com/Shashank731)\n\n</div>\n\n---\n\n## Research Interests\n\nMy work sits at the intersection of **machine learning, deep learning, and intelligent systems**.\n\n- **Representation Learning** — learning useful representations from text, images, graphs, and multimodal data\n- **LLM Systems** — transformers, retrieval, agents, reasoning, and model orchestration\n- **Deep Learning** — architectures, optimization, computer vision, and generative models\n- **Recommender Systems** — representation learning, collaborative filtering, and hybrid recommendation\n- **Efficient AI** — inference, model efficiency, and systems for running capable models on constrained hardware\n\nI am particularly interested in understanding **why a system works**, not only how to use an existing model.\n\n---\n\n## Selected Work\n\n### [Finora](https://github.com/Shashank731/Finora)\n\nAn AI research platform for analyzing financial documents and structured financial data.\n\nFocus: retrieval, embeddings, RAG, semantic search, and structured knowledge.\n\n`Python` `FastAPI` `Qdrant` `PostgreSQL`\n\n### [M10-Music](https://github.com/Shashank731/M10-Music)\n\nA hybrid recommendation system combining content representations with collaborative filtering.\n\nFocus: embeddings, matrix factorization, ALS, similarity search, and recommendation evaluation.\n\n`Python` `FAISS` `Embeddings` `ALS`\n\n### [Kidney-Disease-Classification](https://github.com/Shashank731/Kidney-Disease-Classification)\n\nA deep-learning study on CT-image classification with interpretability experiments.\n\nFocus: DenseNet, transfer learning, Grad-CAM, and medical-image representation learning.\n\n`PyTorch` `DenseNet121` `Grad-CAM`\n\n### [Deep-Learning-Lab](https://github.com/Shashank731/Deep-Learning-Lab)\n\nExperiments and implementations for studying deep-learning concepts through code.\n\n`Python` `PyTorch`\n\n---\n\n## Research Directions\n\nI am currently studying:\n\n**Learning & Representation**\n- Attention and transformer architectures\n- Representation learning\n- Self-supervised learning\n- Graph neural networks\n\n**Language Models**\n- LLM pretraining and fine-tuning\n- Retrieval-augmented generation\n- Reasoning and test-time computation\n- Agent architectures and tool use\n\n**AI Systems**\n- Efficient inference\n- Model orchestration\n- Memory and retrieval\n- Evaluation of intelligent systems\n\n---\n\n## Approach\n\nI prefer a research-oriented workflow:\n\n**Read → Understand → Implement → Experiment → Measure → Iterate**\n\nRather than treating models as black boxes, I try to reproduce important ideas, inspect their behavior, and build small experiments that make the underlying mechanisms clear.\n\n---\n\n## Technical Foundation\n\n**Languages**\n\n`Python` · `C++` · `Java` · `SQL`\n\n**Machine Learning**\n\n`PyTorch` · `Scikit-learn` · `TensorFlow`\n\n**LLM / Retrieval**\n\n`Transformers` · `FAISS` · `Qdrant` · `RAG` · `Embeddings`\n\n**Systems**\n\n`FastAPI` · `PostgreSQL` · `Docker` · `Linux`\n\n---\n\n## Notes\n\nI use GitHub primarily as a **research notebook and engineering workspace** — for implementations, experiments, projects, and ideas that I want to understand deeply.\n\n> Build less for the demo. Understand more of the system.\n\n
+<div align="center">
+
+# Shashank Saraswat
+
+**Machine Learning · Deep Learning · LLM Systems**
+
+*Studying how intelligent systems learn, reason, and generalize — and building them from first principles.*
+
+[GitHub](https://github.com/Shashank731)
+
+</div>
+
+---
+
+## Research Interests
+
+My work sits at the intersection of **machine learning, deep learning, and intelligent systems**.
+
+- **Representation Learning** — learning useful representations from text, images, graphs, and multimodal data
+- **LLM Systems** — transformers, retrieval, agents, reasoning, and model orchestration
+- **Deep Learning** — architectures, optimization, computer vision, and generative models
+- **Recommender Systems** — representation learning, collaborative filtering, and hybrid recommendation
+- **Efficient AI** — inference, model efficiency, and systems for running capable models on constrained hardware
+
+I am particularly interested in understanding **why a system works**, not only how to use an existing model.
+
+---
+
+## Selected Work
+
+### [Finora](https://github.com/Shashank731/Finora)
+
+An AI research platform for analyzing financial documents and structured financial data.
+
+Focus: retrieval, embeddings, RAG, semantic search, and structured knowledge.
+
+`Python` `FastAPI` `Qdrant` `PostgreSQL`
+
+### [M10-Music](https://github.com/Shashank731/M10-Music)
+
+A hybrid recommendation system combining content representations with collaborative filtering.
+
+Focus: embeddings, matrix factorization, ALS, similarity search, and recommendation evaluation.
+
+`Python` `FAISS` `Embeddings` `ALS`
+
+### [Kidney-Disease-Classification](https://github.com/Shashank731/Kidney-Disease-Classification)
+
+A deep-learning study on CT-image classification with interpretability experiments.
+
+Focus: DenseNet, transfer learning, Grad-CAM, and medical-image representation learning.
+
+`PyTorch` `DenseNet121` `Grad-CAM`
+
+### [Deep-Learning-Lab](https://github.com/Shashank731/Deep-Learning-Lab)
+
+Experiments and implementations for studying deep-learning concepts through code.
+
+`Python` `PyTorch`
+
+---
+
+## Research Directions
+
+I am currently studying:
+
+**Learning & Representation**
+- Attention and transformer architectures
+- Representation learning
+- Self-supervised learning
+- Graph neural networks
+
+**Language Models**
+- LLM pretraining and fine-tuning
+- Retrieval-augmented generation
+- Reasoning and test-time computation
+- Agent architectures and tool use
+
+**AI Systems**
+- Efficient inference
+- Model orchestration
+- Memory and retrieval
+- Evaluation of intelligent systems
+
+---
+
+## Approach
+
+I prefer a research-oriented workflow:
+
+**Read → Understand → Implement → Experiment → Measure → Iterate**
+
+Rather than treating models as black boxes, I try to reproduce important ideas, inspect their behavior, and build small experiments that make the underlying mechanisms clear.
+
+---
+
+## Technical Foundation
+
+**Languages**
+
+`Python` · `C++` · `Java` · `SQL`
+
+**Machine Learning**
+
+`PyTorch` · `Scikit-learn` · `TensorFlow`
+
+**LLM / Retrieval**
+
+`Transformers` · `FAISS` · `Qdrant` · `RAG` · `Embeddings`
+
+**Systems**
+
+`FastAPI` · `PostgreSQL` · `Docker` · `Linux`
+
+---
+
+## Notes
+
+I use GitHub primarily as a **research notebook and engineering workspace** — for implementations, experiments, projects, and ideas that I want to understand deeply.
+
+> Build less for the demo. Understand more of the system.
+
